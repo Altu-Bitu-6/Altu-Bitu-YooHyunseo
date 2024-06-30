@@ -8,10 +8,6 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/Desktop/Altu-Bitu/Altu-Bitu-YooHyunseo/11_투포인터",
-      "program": "c:/Users/user/Desktop/Altu-Bitu/Altu-Bitu-YooHyunseo/11_투포인터/build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
