@@ -8,8 +8,6 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/Desktop/Altu-Bitu/Altu-Bitu-YooHyunseo/04_브루트포스",
-      "program": "c:/Users/user/Desktop/Altu-Bitu/Altu-Bitu-YooHyunseo/04_브루트포스/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
