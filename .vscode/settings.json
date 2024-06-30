@@ -1,10 +1,4 @@
 {
-  "C_Cpp_Runner.cCompilerPath": "C:/mingw64/bin/gcc.exe",
-  "C_Cpp_Runner.cppCompilerPath": "C:/mingw64/bin/g++.exe",
-  "C_Cpp_Runner.debuggerPath": "C:/mingw64/bin/gdb.exe",
-  "C_Cpp_Runner.cStandard": "",
-  "C_Cpp_Runner.cppStandard": "",
-  "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat",
   "C_Cpp_Runner.useMsvc": false,
   "C_Cpp_Runner.warnings": [
     "-Wall",
@@ -37,9 +31,7 @@
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
-  "C_Cpp_Runner.includePaths": [
-    "${workspaceFolder}/**"
-  ],
+
   "C_Cpp_Runner.includeSearch": [
     "*",
     "**/*"
@@ -57,8 +49,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-    "iostream": "cpp"
-  }
+
 }
